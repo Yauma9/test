@@ -1,0 +1,7 @@
+@startuml
+class Car {
+  -int numberOfWheels
+  +String color
+  +void drive()
+}
+@enduml
